@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f5a6c8e-0a9d-4d5f-949f-e6c7901ddf68" name="Changes" comment="feat: Arquivos iniciais" />
+    <list default="true" id="6f5a6c8e-0a9d-4d5f-949f-e6c7901ddf68" name="Changes" comment="feat: Arquivos iniciais">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline/extract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline/transform.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FASilva13"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FASilva13/gov-api-pipeline.git",
+    "accountId": "886e7d41-414b-4dbd-b4a9-41e41118b748"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
