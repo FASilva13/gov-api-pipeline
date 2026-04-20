@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f5a6c8e-0a9d-4d5f-949f-e6c7901ddf68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f5a6c8e-0a9d-4d5f-949f-e6c7901ddf68" name="Changes" comment="feat: Arquivos iniciais" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +57,46 @@
       <option name="presentableId" value="Default" />
       <updated>1776710793265</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: Arquivos iniciais">
+      <option name="closed" value="true" />
+      <created>1776713566922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776713566922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Arquivos iniciais">
+      <option name="closed" value="true" />
+      <created>1776713616549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776713616549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Arquivos iniciais">
+      <option name="closed" value="true" />
+      <created>1776713689984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776713689984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Arquivos iniciais" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Arquivos iniciais" />
   </component>
 </project>
